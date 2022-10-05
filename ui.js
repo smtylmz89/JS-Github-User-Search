@@ -34,11 +34,11 @@ class UI{
                             <hr>
                             <li class="list-group">
                                 <li class="list-group-item borderzero">
-                                    <img src="images/company.png" width="15px"> <span id="company">${user.company}</span>
+                                    <img src="company.png" width="15px"> <span id="company">${user.company}</span>
                                     
                                 </li>
                                 <li class="list-group-item borderzero">
-                                    <img src="images/location.png" width="15px"> <span id = "location">${user.location}</a>
+                                    <img src="location.png" width="15px"> <span id = "location">${user.location}</a>
                                     
                                 </li>
                                
